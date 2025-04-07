@@ -1,0 +1,4 @@
+Jedinou chybu jste měl v opomenutí podmínky, která uzavírá globální část kódu (řádek 25 v souboru paralelne.py).
+Popisujte osy grafů.
+
+Hodnotím 9 body.
